@@ -24,6 +24,10 @@ salida = "Hola soy la 'suma': "
 
 #Interpolación de strings
 
+#Expresiones Racionales 
+valor = 4 + 5 >23
+print(valor)
+
 salida = f"""
          ===== Expresiones Aritméticos =====
             La suma es: {suma}
